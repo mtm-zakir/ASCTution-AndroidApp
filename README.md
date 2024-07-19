@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-ASC Tution App for Tution Management.
+ASC Tution Android App for Tution Management Using Android Studio
 
 ## SCREENSHOTS
 <div align="center">
